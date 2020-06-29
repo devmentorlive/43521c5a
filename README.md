@@ -1,4 +1,4 @@
-# Capitalize Strings in a Functional Style in JS
+# Building a 5 Star Rating Component in ReactJS [Algorithms and Data Structures]
 
 Today we will be building a functional component in ReactJS to display a 5-star rating. I will take you through the steps of starting it out purely procedural (Jr Programmer), then we will make it "configurable" (Mid Level Coder), and finally, we will use the chosen data structure (Array) to inform an algorithm to build out the stars, removing all configuration in favor of convention (Sr. Developer).
 
